@@ -1,4 +1,4 @@
 This is the file I added directly from github.com
 
-
-Added some changes from local
+This is my coworker adding changes and pushing to remote. Edited
+My coworker also added some changes to line 4
